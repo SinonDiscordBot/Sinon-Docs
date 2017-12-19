@@ -34,7 +34,6 @@
 *reload       :: Reloads the command file, if it's been updated or modified.
 *servers      :: Shows how many servers i am on
 *subcount     :: Shows the subcount of a youtuber
-*test         :: test
 *upvote       :: helps you with upvoting
 *urban        :: Search urban dictonary
 *youtube      :: Searches youtube
