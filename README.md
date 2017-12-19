@@ -5,7 +5,7 @@
 ```
 [Run *help <commandname> on Sinon to learn more about a specific command]
 
-*8ball        :: i dont know
+*8ball        :: 8ball
 *add          :: Adds song to queue
 *airhorn      :: Plays a random airhorn sound!
 *avatar       :: Shows you your Avatar
