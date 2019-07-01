@@ -1,4 +1,6 @@
 # Sinon Documentation
+Proudly powered by SkySilk® VPS Hosting - [www.SkySilk.com](http://bit.ly/320TKNC)
+![SkySilk](https://tower.is-fi.re/76fbaMM.png)
 
 ## Commands
 
